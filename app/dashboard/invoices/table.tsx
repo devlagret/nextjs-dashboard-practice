@@ -1,4 +1,5 @@
-// ...
+import { UpdateInvoice, DeleteInvoice } from '@/app/ui/invoices/buttons';
+
 export default async function InvoicesTable({
     query,
     currentPage,
